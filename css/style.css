@@ -1,0 +1,14 @@
+
+
+/* Utilities */
+.container {
+    width: 50%;
+    margin: 250% auto;
+     
+}
+
+header {
+    background-image:url("../pattern.png") ;
+    background-color: rgb(100, 151, 245);
+}
+
