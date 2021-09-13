@@ -8,6 +8,7 @@
      
 }
 
+/* Header content */
 header {
     background-image:url("../pattern.png") ;
     background-color: rgb(100, 151, 245);
@@ -18,4 +19,29 @@ header {
     width: 15%;
     padding-top: 5%;
 
+}
+/*  Main section */
+.color {
+    color: blue;
+}
+
+h1 {
+    margin-top: 3%;
+}
+
+p {
+    margin: auto;
+}
+
+.Font {
+    font-size: 60%;
+}
+
+.Image1 {
+    background-image: url(../img/tim-1.jpg);
+    width: 53%;
+}
+.Image2 {
+    background-image: url(../img/tim-2.jpg);
+    width: 45%;
 }
