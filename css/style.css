@@ -3,15 +3,19 @@
 /* Utilities */
 .container {
     width: 50%;
-    margin: 250% auto;
+    margin: 0% auto;
+    
      
 }
 
 header {
     background-image:url("../pattern.png") ;
     background-color: rgb(100, 151, 245);
+    
 }
- 
+
 .logo {
-    width: 12%;
+    width: 15%;
+    padding-top: 5%;
+
 }
