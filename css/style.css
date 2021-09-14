@@ -57,3 +57,43 @@ p {
 .Table {
     width: 90%;
 }
+/* Footer */
+
+h5 {
+    color: darkgrey;
+}
+/* divisore immagini */
+.padding {
+    margin-top: 3%;
+}
+/* inserzione testo nelle immagini */
+.insert {
+        margin: 0px;
+        background-image: url(../img/monitor.jpg);
+        background-repeat: no-repeat;
+        color: #FFFFFF;
+        background-color: red;
+        font-size: 120%;
+        font-weight: normal;
+        line-height: 60px;
+       text-align: center ;
+        width: 240px;
+        height: 150px;
+        
+}
+
+.insert2 {
+
+    margin: 0px;
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+    background-color: red;
+    font-size: 120%;
+    font-weight: normal;
+    line-height: 60px;
+   text-align: center ;
+    width: 240px;
+    height: 150px;
+    margin-top: 1%;
+}
