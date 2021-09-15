@@ -12,6 +12,7 @@
 header {
     background-image:url("../pattern.png") ;
     background-color: rgb(100, 151, 245);
+    background-size: 23%;
     
 }
 
@@ -54,9 +55,36 @@ p {
     background-color: rgb(248, 190, 113);
 }
 
+ul{
+    
+}
+
 .Table {
     width: 90%;
 }
+
+.table1 {
+    padding-left: 2%;
+}
+ /* Tabella */
+ thead {
+    background-color: rgb(100, 151, 245);
+    color: white;
+ }
+  table {
+      border-collapse: collapse;
+  }
+
+  .Spaziatura {
+      width: 50%;
+  }
+
+  .tbody {
+    background-color: rgb(167, 194, 245)
+
+  }
+
+  
 /* Footer */
 
 h5 {
